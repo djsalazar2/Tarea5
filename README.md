@@ -5,7 +5,7 @@ Nombre: Donovan Jhosue Salazar Lopez
 1. OBJETIVOS
 OBJETIVO GENERAL
 
-Comprender los temas sobre análisis de ramas, lazos, nodos, magnetismo y electromagnetismo, mediante la lectura de los capítulos 9 y 10 del libro "Principios de circuitos eléctricos" de Floyd, para aplicarlos en la práctica y resolución de ejercicios.
+Comprender los temas sobre análisis de ramas, lazos, nodos, magnetismo y electromagnetismo.
 
 OBJETIVOS ESPECIFICOS
 
@@ -16,6 +16,22 @@ Emplear los conocimientos aprendidos con la lectura del capítulo 9 y 10 para la
 2. MARCO TEÓRICO (RESUMEN)
 
 • CAPITULO 9:
+
+![image](https://user-images.githubusercontent.com/116816731/209418078-294ee29e-0f57-4302-87e6-e2a5f49293a0.png)
+
+![image](https://user-images.githubusercontent.com/116816731/209418088-cb8e6236-109c-485b-a40e-9047a580b4e8.png)
+
+![image](https://user-images.githubusercontent.com/116816731/209418469-abf1598d-4705-406c-a0fa-8ea94ebac3ca.png)
+
+![image](https://user-images.githubusercontent.com/116816731/209418376-455093a7-1505-425b-b5e5-e87ceac5a7f3.png)
+
+![image](https://user-images.githubusercontent.com/116816731/209418428-a3be8f35-fc29-403c-b533-2a6fbcf88597.png)
+
+![image](https://user-images.githubusercontent.com/116816731/209418538-c7822ac2-c7a7-416a-a085-f1b603e32f65.png)
+
+![image](https://user-images.githubusercontent.com/116816731/209418571-4d0bd3e0-0f61-492f-a94e-34212d2d4ac0.png)
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 CAPITULO 9
@@ -257,10 +273,111 @@ R= 233.33X10^3 At/Wb
 
 Dispositivos electromagnéticos
 
-De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+10.De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
+
 En el estado de reposo (o no energizado), el émbolo se extiende, por ende cuando se activa este se retrae
 
-Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
+12.Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
+
+![image](https://user-images.githubusercontent.com/116816731/209417946-01b5e21b-9ff0-4d58-97ec-1a892225626e.png)
+
+El SW1 nos ayuda con el funcionamiento debido de las 2 lámparas correspondientes, el SW1 nos ocupa la función de interruptor de detección magnética
+
+Histéresis magnética
+
+14.¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
+
+Pregunta 9 ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?
+
+H= Fm/l
+
+Fm=HXl
+
+Fm= 50x3A
+
+Fm= 150
+
+Fm=HXl
+
+Fm= 0.2mx3A
+
+Fm= 0.6
+
+16.En la figura 10-44, hay 500 vueltas. Determine (a) H (b) ɸ (c) B
+
+![image](https://user-images.githubusercontent.com/116816731/209417959-f6f2f5a9-bb4d-4876-8553-d3a4c0b233f4.png)
+
+a)
+
+H = Fm/l
+
+H= 500(0.25A) /(0.30Mm)
+
+H= 416 At/m
+
+b)
+
+R= l/micra A
+
+R= 0.30m /250 micra (0.30mx0.02m)
+
+R= 200x10^3 At/Wb
+
+ɸ = Fm/R
+
+ɸ= 500(0.25A)/ 200x10^3 At/Wb
+
+ɸ=6.25X10^(-4)
+
+C) B = ɸ/ A
+
+B= 6.25X10^(-4)/ (0.30mx0.02m)
+
+B= 0.1041
+
+Inducción electromagnética
+
+18.De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
+
+El voltaje inducido a través de una bobina de alambre es igual al número de vueltas que haya en la bobina multiplicado por la velocidad de cambio del flujo magnético.
+
+El voltaje aumenta porque es proporcional
+
+20.Un campo magnético cambia a razón de 3500 x10^(-3) Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
+Vind = N(d ɸ/ dt )
+
+= (500 t) (3500 x10^(-3) Wb/s )
+
+= 1750 V
+
+Aplicaciones de la inducción electromagnética
+
+22.En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+
+![image](https://user-images.githubusercontent.com/116816731/209417980-918af733-9f46-42cf-90ac-0a91dca0fb63.png)
+
+Un disco de acero se une al cigüeñal del motor por medio de una barra de extensión; en el disco, los dientes salientes representan posiciones del cigüeñal específico.
+
+No se mueve por este motivo: El controlador electrónico de motor instalado en muchos automóviles utiliza la posición del cigüeñal para ajustar el tiempo de encendido
+
+Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+
+4. VIDEO
+https://www.youtube.com/watch?v=VF_qr9VUwNd
+
+5. CONCLUSIONES
+A partir de los resúmenes realizados mediante mapas conceptuales, se puede decir que existen otros tres métodos que implementan la ley de ohm y leyes de Kirchhoff, para el análisis de circuitos con varios lazos o que tienen dos o más fuentes de voltaje o corriente, en el método de corrientes de ramas utilizamos la ley de Kirchhoff para hallar las corrientes en las ramas de un circuito, en el método de corrientes en lazo, se hallas las corrientes que hay en cada malla y en el método de voltajes de nodos se hallan los voltajes independientes de cada nodo. Conocemos los conceptos de magnetismo y electromagnetismo, que es las producciones de un campo magnético por una corriente en un conductor.
+
+En la resolución de los ejercicios pares del libro “Principios de circuitos eléctricos” de Floyd, se aplicó lo comprendido de los capítulos 9 y 10, donde comprobamos lo importante que es conocer los métodos de análisis de circuitos, para saber cuál elegir y que nuestra resolución no se vuelva tediosa, en este caso se realizó el análisis con tres métodos, el de ramas, lazos y voltaje. También se realizó varios ejercicios sobre electromagnetismo que nos ayuda a comprender mejor temas nuevos como este.
+
+6. Bibliografía
+Floyd, T. (2007). Principios de circuitos electricos . PEARSON Educación. https://drive.google.com/file/d/1cGAWCJ4-yhAe1LyAXvmOeUhEmQVLy-zv/view
+
+RUBRICA
+
+![image](https://user-images.githubusercontent.com/116816731/209417989-545ae2ca-d45e-4cea-b5b6-52b76a900a46.png)
+
+
 
 
 
